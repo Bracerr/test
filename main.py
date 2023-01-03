@@ -45,3 +45,5 @@ s = '87+648642   ---- gjkagkg22255 HFNKThhfhff'
 
 # result = re.search(r'\d{3,}', s) колл- во повторений не менее 3
 print(result)
+
+#govno
